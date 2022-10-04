@@ -1,6 +1,5 @@
 
 async function fetchProfileData() {
-<<<<<<< HEAD
     const url = 'https://raw.githubusercontent.com/Vanubioinfo/portifolio-js/main/javascript-portfolio/data/profile.json';
 =======
     const url = 
