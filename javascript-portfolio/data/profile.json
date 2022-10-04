@@ -1,0 +1,52 @@
+{
+  "name": "Vanubio S. Nascimento",
+  "photo": "https://avatars.githubusercontent.com/u/105126781?s=400&u=c1e3b8e1ae1f54f3c10475ecc23dea9d006af1c9&v=4",
+  "job": "Front-end Developer Jr",
+  "location": "Rio de Janeiro - RJ",
+  "phone": "(21) 98186-0553",
+  "email": "vanubioinfo@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/Vanubioinfo/js-developer-pokedex-main",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/Vanubioinfo/portifolio-js",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Motorista profissional",
+      "period": "dez de 2016 - o momento",
+      "description": "Esta sendo uma experiência inovadora, pois viajar pelas grandes cidades do pais e conhecer as estradas e tudo que ela transmite, é fenomenal."
+    },
+    {
+      "name": "Gerente administrativo / Operacional ",
+      "period": "jul de 2010 - out de 2014",
+      "description": "Gerenciar restaurante significa preparar e executar as tarefas necessárias para conseguir os resultados esperados pela organização. É uma atividade que envolve todos os tipos de habilidades, relacionadas à administração, planejamento e coordenação. Com o auxílio e o empenho dedicado lado-a-lado com os colaboradores."
+    }
+  ]
+}
