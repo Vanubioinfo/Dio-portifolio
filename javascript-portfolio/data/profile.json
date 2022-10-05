@@ -8,6 +8,10 @@
   "skills": {
     "hardSkills": [
       {
+        "name": "Js",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
         "name": "Java",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       }
@@ -23,7 +27,8 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (iniciante)"
+    "Espanhol (iniciante)",
+    "Francês (iniciante)"
   ],
   "portfolio": [
     {
