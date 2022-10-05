@@ -8,8 +8,8 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Js",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/Vanubioinfo/Dio-portifolio/master/javascript-portfolio/data/imgs/js.png"
       },
       {
         "name": "Java",
